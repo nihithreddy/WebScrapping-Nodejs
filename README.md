@@ -4,7 +4,7 @@ We will collect data from the website using jquery selectors, after that we will
 
 # Steps to Run the WebScrapper
 
-1) Clone the project by using git clone command. 
+1) Clone the repo by using the git clone command. 
 2) Run npm install command to install all the dependencies present in package.json file.
 3) Run the command node index.js in terminal.
-4) Now finally check the movie_info.csv file in the current directory.
+4) Now finally check the movie_info.csv file in the current directory to view the output.
